@@ -12,6 +12,7 @@ RUN apt-get update -y \
     && apt-get install -y --no-install-recommends \
         wget \
         git \
+        curl \
         jq \
         build-essential \
         libsasl2-dev \
