@@ -1,5 +1,5 @@
-setuptools>=65.5.1
-pre-commit>=3.7,<3.8
+setuptools>=80
+pre-commit>=4.2,<5.0
 
 # sqlfluff
 sqlfluff @ git+https://github.com/sqlfluff/sqlfluff.git@main  # Use the main package
